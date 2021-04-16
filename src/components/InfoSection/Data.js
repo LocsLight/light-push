@@ -9,7 +9,7 @@ export const homeObjOne = {
     description: 'Parce qu\'une idée de projet n\'est jamais figé dans le temps, soyez accompagné aussi longtemps que vous en avez besoin.',
     buttonLabel: 'Get started',
     imgStart: false,
-    img: require('./momomo.jpg'),
+    img: require('../../images/SVG/Backgrounds/bg1.svg'),
     alt: 'a car',
     dark: true,
     primary: true,
